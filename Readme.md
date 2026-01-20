@@ -6,7 +6,7 @@ This project focuses on learning **core Solidity fundamentals** by building a re
 
 ---
 
-## 📌 What This Project Does
+## 📌 What This Project Does 
 
 - Stores a message permanently on the blockchain  
 - Assigns ownership at deployment using `msg.sender`  
