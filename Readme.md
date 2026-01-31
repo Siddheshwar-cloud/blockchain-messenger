@@ -11,7 +11,7 @@ This project focuses on learning **core Solidity fundamentals** by building a re
 - Stores a message permanently on the blockchain  
 - Assigns ownership at deployment using `msg.sender`  
 - Restricts message updates to the contract owner  
-- Tracks how many times the message has been changed  
+- Tracks how many times the message has been changed    
 
 ---
  
